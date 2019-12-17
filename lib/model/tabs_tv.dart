@@ -1,0 +1,4 @@
+enum TvTab {
+  EswatiniTv,
+  ChannelS
+}
